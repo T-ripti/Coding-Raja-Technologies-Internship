@@ -51,36 +51,32 @@ The system uses the https://grouplens.org/datasets/movielens/ for training and t
 
 ### Steps
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-For Flask:
-bash
-Copy code
-python app.py
-For Streamlit:
-bash
-Copy code
-streamlit run app.py
-Access the web interface at http://localhost:5000 (Flask) or the Streamlit URL.
+   - git clone https://github.com/your-username/movie-recommendation-system.git
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the application:
+   - For Flask:
+      python app.py
+  - For Streamlit:
+      streamlit run app.py
+4. Access the web interface at http://localhost:5000 (Flask) or the Streamlit URL.
 
-📈 Results
+---
+
+## 📈 **Results**
 Achieved high user satisfaction with personalized recommendations.
 Enhanced recommendation accuracy using a hybrid approach.
-🔮 Future Scope
+
+---
+
+## 🔮 **Future Scope**
 Integrate deep learning models (e.g., Neural Collaborative Filtering, AutoEncoders).
 Add support for real-time user feedback to refine recommendations.
 Include multilingual movie metadata for global reach.
-👩‍💻 Contributors
-Your Name
-🎯 License
-This project is licensed under the MIT License.
 
-📚 References
+---
+
+## 📚 **References**
 MovieLens Dataset: https://grouplens.org/datasets/movielens/
 Collaborative Filtering: https://en.wikipedia.org/wiki/Collaborative_filtering
 Content-Based Filtering: https://towardsdatascience.com/content-based-recommendation-system
