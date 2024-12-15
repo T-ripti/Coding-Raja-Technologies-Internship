@@ -59,7 +59,6 @@ The system uses the https://grouplens.org/datasets/movielens/ for training and t
       python app.py
    - For Streamlit:
       streamlit run app.py
-4. Access the web interface at http://localhost:5000 (Flask) or the Streamlit URL.
 
 ---
 
