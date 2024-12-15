@@ -57,7 +57,7 @@ The system uses the https://grouplens.org/datasets/movielens/ for training and t
 3. Run the application:
    - For Flask:
       python app.py
-  - For Streamlit:
+   - For Streamlit:
       streamlit run app.py
 4. Access the web interface at http://localhost:5000 (Flask) or the Streamlit URL.
 
