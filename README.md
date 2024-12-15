@@ -76,6 +76,6 @@ Include multilingual movie metadata for global reach.
 ---
 
 ## 📚 **References**
-### MovieLens Dataset: https://grouplens.org/datasets/movielens/
-### Collaborative Filtering: https://en.wikipedia.org/wiki/Collaborative_filtering
-### Content-Based Filtering: https://towardsdatascience.com/content-based-recommendation-system
+- MovieLens Dataset: https://grouplens.org/datasets/movielens/
+- Collaborative Filtering: https://en.wikipedia.org/wiki/Collaborative_filtering
+- Content-Based Filtering: https://towardsdatascience.com/content-based-recommendation-system
